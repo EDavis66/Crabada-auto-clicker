@@ -9,6 +9,7 @@ Full auto clicker bot for Crabada. Script uses pixel scanning via WinAPI functio
 - Jan 2022: First release
 - March 2022: Captcha bypass added ([2captcha](https://2captcha.com/) API key)
 - May 2022: Captcha bypass updated
+- May 2022: Battle game added (Windows only)
 
 ### Setup
 - [Download](https://github.com/EDavis66/crabada-auto-clicker/archive/refs/heads/main.zip) repository and extract files with password `9InkwZWOENdE`
